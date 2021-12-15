@@ -1,0 +1,12 @@
+{
+  "name": "barcode-to-image",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "jsbarcode": "^3.11.5",
+    "sharp": "^0.29.3",
+    "xmldom": "^0.6.0"
+  }
+}
